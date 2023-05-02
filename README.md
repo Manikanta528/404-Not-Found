@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://manikanta528-404-not-found.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Manikanta528/404-Not-Found">
       Solution
     </a>
     <span> | </span>
@@ -33,7 +33,6 @@
 - [Features](#features)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
-
 <!-- OVERVIEW -->
 
 ## Overview
@@ -48,6 +47,7 @@
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev)
 - [Tailwind](https://tailwindcss.com/)
 
 ## Features
@@ -61,7 +61,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Tailwindcss](https://tailwindcss.com/docs/installation)
+- [Tailwindcss docs](https://tailwindcss.com/docs/installation)
+-  [Vite docs](https://vitejs.dev)
 
 
 ## Contact
